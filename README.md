@@ -23,4 +23,4 @@
 
 In this project, the goal is to thoroughly analyze Instacart's historical data, consisting of over 30 million records, to identify sales patterns and suggest improved segmentation strategies based on given criteria. The analysis process involves various steps, including data wrangling, consistency checks, deriving variables, grouping and aggregating data, and visualizing and storytelling. Jupyter Notebook and Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn are used to analyze and visualize the data. At the same time, Ms. Excel is utilized for some specific tasks. By leveraging these tools and techniques, the analysis will provide valuable insights into sales patterns, customer behavior, and segmentation strategies that can help Instacart optimize operations and improve business outcomes.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/asset/img/Instachart.jpg)
